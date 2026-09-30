@@ -11,10 +11,7 @@ We will talk and present the game, explain what you do in the game, why the game
 30/09/2026
 Idag arbetade vi med webbplatsens layout och kod samt valde ut idéer för dess visuella utformning. 
 
-Oleksii arbetade aktivt med koden och dess optimering med hjälp av VibeAi.
-:
-Nio arbetade aktivt med att utforma webbplatsens utseende och framtida funktioner parallellt med kodningsarbetet.
-:
-Yuki arbetade aktivt med koden och bidrog med designidéer.
-:
+Oleksii arbetade aktivt med koden och dess optimering med hjälp av VibeAi;
+Nio arbetade aktivt med att utforma webbplatsens utseende och framtida funktioner parallellt med kodningsarbetet;
+Yuki arbetade aktivt med koden och bidrog med designidéer;
 Jakob är sjuk och var frånvarande idag.
