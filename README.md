@@ -17,3 +17,6 @@ Yuki arbetade aktivt med koden och bidrog med designidéer;
 Jakob är sjuk och var frånvarande idag.
 
 2026/10/02:
+Vi gjorde stora framsteg med webbplatsen och dess design idag. Vi tog fram en websida prototyp, lade till CSS, samarbetade kring tekniska problem och planerade webbplatsens animationer. 
+
+Neo arbetade i bildredigeringsprogram och förberedde visuellt material samt modeller för animationerna. Oleksii arbetade med koden och samarbetade med Neo för att implementera nya lösningar på webbplatsen. Vi använde flera tillgängliga mjukvaruverktyg under dagens arbete, däribland Photopea för de visuella elementen. För att optimera tids- och uppgiftshanteringen använde Oleksii smidiga öppna verktyg såsom Ai (Gemini, Vibe), Visual Studio Code, W3Schools och GitHub. Jakob var frånvarande på grund av sjukdom. Yuki fokuserade på att utöka sina kunskaper och fanns tillgänglig för att hjälpa till.
