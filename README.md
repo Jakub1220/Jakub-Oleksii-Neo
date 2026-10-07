@@ -20,3 +20,17 @@ Jakob är sjuk och var frånvarande idag.
 Vi gjorde stora framsteg med webbplatsen och dess design idag. Vi tog fram en websida prototyp, lade till CSS, samarbetade kring tekniska problem och planerade webbplatsens animationer. 
 
 Neo arbetade i bildredigeringsprogram och förberedde visuellt material samt modeller för animationerna. Oleksii arbetade med koden och samarbetade med Neo för att implementera nya lösningar på webbplatsen. Vi använde flera tillgängliga mjukvaruverktyg under dagens arbete, däribland Photopea för de visuella elementen. För att optimera tids- och uppgiftshanteringen använde Oleksii smidiga öppna verktyg såsom Ai (Gemini, Vibe), Visual Studio Code, W3Schools och GitHub. Jakob var frånvarande på grund av sjukdom. Yuki fokuserade på att utöka sina kunskaper och fanns tillgänglig för att hjälpa till.
+
+2026/10/07:
+Idag optimerade vi koden; genom att samarbeta som ett team gjorde vi nya framsteg och kom på nya idéer för vår webbplats och dess visuella utformning.
+
+Nio fortsatte att arbeta med webbplatsens animationer och visuella utformning med hjälp av verktyg som: 
+Photopea, GitHub och Google Photos. 
+
+Jakob återvände och började genast arbeta aktivt med koden och webbplatsens design, med hjälp av:
+GitHub, Visual Studio Code och Claude AI.
+
+Oleksii arbetade med kod, grafik och åtgärdande av fel i animationerna; jag använde:
+Visual Studio Code, GitHub, Mistral AI, W3Schools och Gemini AI.
+
+Tyvärr var Yuki frånvarande idag.
