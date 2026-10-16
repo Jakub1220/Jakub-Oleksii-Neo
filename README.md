@@ -36,3 +36,12 @@ Visual Studio Code, GitHub, Mistral AI, W3Schools och Gemini AI.
 Tyvärr var Yuki frånvarande idag.
 
 2026/10/16:
+Idag fortsatte vi arbetet med webbplatsen; vi fördelade ansvaret mer effektivt och optimerade processen för att skapa webbplatsen.
+
+Neo fortsatte att arbeta med den visuella delen av webbplatsens förstasida i Photopea och GitHub.
+
+Yuki engagerade sig aktivt i arbetet idag och började arbeta på webbplatsens andra sida med hjälp av verktyg som GitHub och Visual Studio Code.
+
+Oleksii arbetade vidare idag med planering och programmering av webbplatsen, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
+
+ Jakob tyvär var frånvarande idag.
