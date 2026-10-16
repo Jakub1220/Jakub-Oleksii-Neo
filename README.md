@@ -24,7 +24,7 @@ Neo arbetade i bildredigeringsprogram och förberedde visuellt material samt mod
 2026/10/07:
 Idag optimerade vi koden; genom att samarbeta som ett team gjorde vi nya framsteg och kom på nya idéer för vår webbplats och dess visuella utformning.
 
-Nio fortsatte att arbeta med webbplatsens animationer och visuella utformning med hjälp av verktyg som: 
+Neo fortsatte att arbeta med webbplatsens animationer och visuella utformning med hjälp av verktyg som: 
 Photopea, GitHub och Google Photos. 
 
 Jakob återvände och började genast arbeta aktivt med koden och webbplatsens design, med hjälp av:
