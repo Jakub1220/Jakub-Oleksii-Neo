@@ -24,13 +24,13 @@ Neo arbetade i bildredigeringsprogram och förberedde visuellt material samt mod
 2026/10/07:
 Idag optimerade vi koden; genom att samarbeta som ett team gjorde vi nya framsteg och kom på nya idéer för vår webbplats och dess visuella utformning.
 
-Neo fortsatte att arbeta med webbplatsens animationer och visuella utformning med hjälp av verktyg som: 
+Neo - fortsatte att arbeta med webbplatsens animationer och visuella utformning med hjälp av verktyg som: 
 Photopea, GitHub och Google Photos. 
 
-Jakob återvände och började genast arbeta aktivt med koden och webbplatsens design, med hjälp av:
+Jakob - återvände och började genast arbeta aktivt med koden och webbplatsens design, med hjälp av:
 GitHub, Visual Studio Code och Claude AI.
 
-Oleksii arbetade med kod, grafik och åtgärdande av fel i animationerna; jag använde:
+Oleksii - arbetade med kod, grafik och åtgärdande av fel i animationerna; jag använde:
 Visual Studio Code, GitHub, Mistral AI, W3Schools och Gemini AI.
 
 Tyvärr var Yuki frånvarande idag.
@@ -38,10 +38,21 @@ Tyvärr var Yuki frånvarande idag.
 2026/10/16:
 Idag fortsatte vi arbetet med webbplatsen; vi fördelade ansvaret mer effektivt och optimerade processen för att skapa webbplatsen.
 
-Neo fortsatte att arbeta med den visuella delen av webbplatsens förstasida i Photopea och GitHub.
+Neo - fortsatte att arbeta med den visuella delen av webbplatsens förstasida i Photopea och GitHub.
 
-Yuki engagerade sig aktivt i arbetet idag och började arbeta på webbplatsens andra sida med hjälp av verktyg som GitHub och Visual Studio Code.
+Yuki - engagerade sig aktivt i arbetet idag och började arbeta på webbplatsens andra sida med hjälp av verktyg som GitHub och Visual Studio Code.
 
-Oleksii arbetade vidare idag med planering och programmering av webbplatsen, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
+Oleksii - arbetade vidare idag med planering och programmering av webbplatsen, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
 
- Jakob tyvär var frånvarande idag.
+ Jakob - tyvär var frånvarande idag.
+
+ 2026/11/04:
+ Idag fortsatte vi att arbeta på vår webbplats; vi arbetade med våra lokala sidor, så det finns inga nya uppdateringar i vårt arkiv, vissa medlemmar i gruppen – närmare bestämt Yuki och Jakob – blev sjuka, så de var inte med oss.
+
+Oleksii - arbetade aktivt med koden för webbplatsens startsida och uppdaterade gränssnittet, med hjälp av verktyg som Visual Studio Code och W3Schools.
+
+Neo - fortsatte att arbeta med webbplatsens visuella utformning, samt med nya animationer och kod, med hjälp av ett praktiskt verktyg som kallas Photopea.
+
+Jakob - Sjukanmälan.
+
+Yuki - Sjukanmälan.
