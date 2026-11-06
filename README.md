@@ -8,6 +8,8 @@ ENG:
 Our theme is about War Thunder.
 We will talk and present the game, explain what you do in the game, why the game is interesting, what game engine the game is based on, how realistic it is trying to be, and some bad elements in the game.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 2026/09/30:
 Idag arbetade vi med webbplatsens layout och kod samt valde ut idéer för dess visuella utformning. 
 
@@ -16,10 +18,14 @@ Neo arbetade aktivt med att utforma webbplatsens utseende och framtida funktione
 Yuki arbetade aktivt med koden och bidrog med designidéer;
 Jakob är sjuk och var frånvarande idag.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 2026/10/02:
 Vi gjorde stora framsteg med webbplatsen och dess design idag. Vi tog fram en websida prototyp, lade till CSS, samarbetade kring tekniska problem och planerade webbplatsens animationer. 
 
 Neo arbetade i bildredigeringsprogram och förberedde visuellt material samt modeller för animationerna. Oleksii arbetade med koden och samarbetade med Neo för att implementera nya lösningar på webbplatsen. Vi använde flera tillgängliga mjukvaruverktyg under dagens arbete, däribland Photopea för de visuella elementen. För att optimera tids- och uppgiftshanteringen använde Oleksii smidiga öppna verktyg såsom Ai (Gemini, Vibe), Visual Studio Code, W3Schools och GitHub. Jakob var frånvarande på grund av sjukdom. Yuki fokuserade på att utöka sina kunskaper och fanns tillgänglig för att hjälpa till.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
 2026/10/07:
 Idag optimerade vi koden; genom att samarbeta som ett team gjorde vi nya framsteg och kom på nya idéer för vår webbplats och dess visuella utformning.
@@ -35,6 +41,8 @@ Visual Studio Code, GitHub, Mistral AI, W3Schools och Gemini AI.
 
 Tyvärr var Yuki frånvarande idag.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 2026/10/16:
 Idag fortsatte vi arbetet med webbplatsen; vi fördelade ansvaret mer effektivt och optimerade processen för att skapa webbplatsen.
 
@@ -45,6 +53,8 @@ Yuki - engagerade sig aktivt i arbetet idag och började arbeta på webbplatsens
 Oleksii - arbetade vidare idag med planering och programmering av webbplatsen, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
 
  Jakob - tyvär var frånvarande idag.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
  2026/11/04:
  Idag fortsatte vi att arbeta på vår webbplats; vi arbetade med våra lokala sidor, så det finns inga nya uppdateringar i vårt arkiv, vissa medlemmar i gruppen – närmare bestämt Yuki och Jakob – blev sjuka, så de var inte med oss.
@@ -57,6 +67,8 @@ Jakob - Sjukanmälan.
 
 Yuki - Sjukanmälan.
 
+-----------------------------------------------------------------------------------------------------------------------------
+
 2026/11/06:
 Idag fortsatte vi arbetet med webbplatsen; strukturen på startsidan ändrades, och nya ramar för animationer/foton lades till.
 
@@ -67,3 +79,7 @@ Neo - fortsätter arbeta med webbplatsens visuella utformning och koden, med hj�
 Jacob - fortsätter arbeta med projektet och webbplatsstrukturen, liksom med koden, med hjälp av smidiga verktyg som Visual Studio Code och Claude AI.
 
 Yuki - Sjukanmälan.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+
