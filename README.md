@@ -72,7 +72,7 @@ Yuki - Sjukanmälan.
 2026/11/06:
 Idag fortsatte vi arbetet med webbplatsen; strukturen på startsidan ändrades, och nya ramar för animationer/foton lades till.
 
-Oleksii - arbetade aktivt med koden för webbplatsens startsida och uppdaterade gränssnittet, med hjälp av verktyg som Visual Studio Code och W3Schools, Gemini Ai.
+Oleksii - arbetade aktivt med koden för webbplatsens startsida och uppdaterade gränssnittet, med hjälp av verktyg som Visual Studio Code, W3Schools och Gemini Ai.
 
 Neo - fortsätter arbeta med webbplatsens visuella utformning och koden, med hjälp av smidiga verktyg som Photopea.
 
