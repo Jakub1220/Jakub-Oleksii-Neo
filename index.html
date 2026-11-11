@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="sv">
 <head>
 <!-- 
   Uppdateringar:
@@ -299,6 +300,48 @@ p {
 .submit-btn:hover {
   background: var(--color-gold-hover);
 }
+
+/* Länk-sektion (liknar Skärm 1 fast mindre) */
+.section-link {
+  min-height: auto;
+  padding: 60px 40px;
+  background: var(--bg-primary);
+  border-top: 1px solid #2d2d2d;
+  animation: none;
+}
+
+.section-link h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+.section-link p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.link-btn {
+  display: inline-block;
+  text-decoration: none;
+  background: #2d2d2d;
+  color: var(--color-white);
+  border: 1px solid #555;
+  padding: 12px 24px;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+}
+
+.link-btn:hover {
+  background: var(--color-gold);
+  border-color: var(--color-gold);
+  color: #111;
+  transform: translateY(-2px);
+}
 </style>
 </head>
 <body>
@@ -411,4 +454,14 @@ p {
     </div>
   </section>
 
+  <!-- Länk till nästa sida -->
+  <section class="section section-link">
+    <div class="content-wrapper">
+      <h2>Tillverkning av stridsmaskiner/vapen</h2>
+      <p>Fortsätt till nästa del av sidan.</p>
+      <a class="link-btn" href="html2.html">Gå till nästa sida</a>
+    </div>
+  </section>
+
 </body>
+</html>
