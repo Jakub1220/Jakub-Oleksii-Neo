@@ -95,3 +95,16 @@ Yuki - Sjukanmälan.
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+2026/11/13:
+Idag fortsatte vi att arbeta med projektet, både enskilt och i grupp.
+
+Oleksii - arbetade vidare idag med planering och programmering av webbplatsen, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
+
+Neo - fortsätter arbeta med webbplatsens visuella utformning och koden, med hjälp av smidiga verktyg som Photopea.
+
+Jacob - tyvär var frånvarande idag.
+
+Yuki - arbetade på webbplatsens andra sida med hjälp av verktyg som GitHub och Visual Studio Code.
+
+-----------------------------------------------------------------------------------------------------------------------------
+
