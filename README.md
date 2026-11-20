@@ -121,4 +121,16 @@ Yuki - arbetade på webbplatsens andra sida med hjälp av verktyg som GitHub och
 
 -----------------------------------------------------------------------------------------------------------------------------
 
+2026/11/20:
+Idag fortsatte vi att arbeta med projektet, både enskilt och i grupp. Vi fortsatte även att arbeta med webbplatsens design, införlivade nya idéer och utvecklade ett nytt perspektiv på genomförandet och webbplatsens framtid.
+
+Oleksii - fortsatte arbeta med webbplatsens förstasida, närmare bestämt dess design och kodning, med hjälp av smidiga verktyg som GitHub och Visual Studio Code.
+
+Neo - fortsätter att arbeta med webbplatsens visuella utformning och kod, och har bidragit med nya idéer och förslag gällande webbplatsens layout. I sitt arbete har han använt agila verktyg såsom Photopea och Visual Studio Code.
+
+Jacob - fortsätter arbeta med projektet och webbplatsstrukturen, liksom med koden, han började också arbeta på projektets tredje sida med hjälp av smidiga verktyg som Visual Studio Code och Claude AI.
+
+Yuki - arbetade på webbplatsens andra sida med hjälp av verktyg som GitHub och Visual Studio Code.
+
+-----------------------------------------------------------------------------------------------------------------------------
 
